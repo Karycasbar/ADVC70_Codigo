@@ -1,0 +1,28 @@
+         	</center>
+
+
+<h2 class="page-header" id="movies">Reseñas de películas</h2>
+
+<div class="bg-primary movie_head" data-toggle="collapse" data-target="#avengers_endgame" >
+    <span class="glyphicon glyphicon-film" ></span> Avengers Endgame<i class="fa fa-sort-desc" ></i>
+  </div>
+
+  <div id="avengers_endgame" class="collapse">
+
+	  <div class="movie_text" >
+        <img src="https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg" class="img-responsive img-thumbnail"> 
+		  <h5 class="text-success text-capitalize">Excelente Manera De Concluir La Saga Del MCU.
+        <span class="glyphicon glyphicon-star" ></span>
+        <span class="glyphicon glyphicon-star" ></span>
+        <span class="glyphicon glyphicon-star" ></span>
+        <span class="glyphicon glyphicon-star" ></span>
+        <span class="glyphicon glyphicon-star" ></span>
+      </h5>
+		  <p>Vi la película hoy con mis hijos y les encantó. Eso sí, debes de tener al menos un conocimiento básico de lo que pasó en las películas anteriores o no entenderás el 40 % de la película. 
+        Antes de ver Endgame, tienes que ver Infinity War, Civil War, Black Panther, Age of Ultron, Ant-Man and the Wasp. Esta película es un homenaje a todos los filmes de superhéroes de Marvel. 
+        Te encantará. Al inicio de la película (aquí viene un pequeño spoiler) hay una decapitación muy impresionante. Esta es la película de ciencia ficción más hablada y popular. 
+        En la película, podrás ver cómo los Vengadores se unen una vez más para revertir los acontecimientos que causó Thanos y regresar el balance al universo. 
+        Esta película es muy larga, dura alrededor de 3 horas.</p>
+	  </div>
+  
+  </div>
